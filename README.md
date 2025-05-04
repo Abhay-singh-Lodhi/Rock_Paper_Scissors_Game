@@ -40,7 +40,8 @@ A classic Rock Paper Scissors game implemented using HTML, CSS, and JavaScript. 
 
 
 ## Screenshots
-![Game Screenshot](https://)
+![Game Screenshot](Rock_Paper_Scissors/images/ss1.png)
+![Game Screenshot](Rock_Paper_Scissors/images/ss2.png)
 
 ## License
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
